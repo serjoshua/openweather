@@ -1,0 +1,8 @@
+openweather\Weather.class
+openweather\WeatherInfo.class
+openweather\App.class
+openweather\Temperature.class
+openweather\WeatherLog.class
+openweather\WeatherInfoController.class
+openweather\Forecast.class
+openweather\WeatherInfoRepository.class
